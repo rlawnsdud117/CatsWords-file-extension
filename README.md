@@ -1,1 +1,1 @@
-# Catsworth-file-extension
+# 캐츠워즈 커뮤니티 API 이용한 파일 확장자 App
