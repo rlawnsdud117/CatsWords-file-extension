@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">캐츠워즈 커뮤니티 파일 확장자 검색</string>
+    <string-array name="sports_array">
+        <item>Shuttle Badminton</item>
+        <item>Tennis</item>
+        <item>FootBall</item>
+        <item>Basket Ball</item>
+        <item>Table Tennis</item>
+        <item>Chess</item>
+        <item>Hockey</item>
+    </string-array>
+    <string-array name="contents_array">
+        <item>This is Shuttle Badminton</item>
+        <item>This is Tennis</item>
+        <item>This is FootBall</item>
+        <item>This is Basket Ball</item>
+        <item>This is Table Tennis</item>
+        <item>This is Chess</item>
+        <item>This is Hockey</item>
+    </string-array>
+</resources>
